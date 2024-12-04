@@ -1,2 +1,1 @@
-#readme.md 
-this is creted for the praticed purpose...
+# this is the pratice file.. for me to pratice in github
